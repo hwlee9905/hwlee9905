@@ -32,7 +32,7 @@ DB 설계, Spring MVC 구조 RESTful API 설계, 데이터 모델링, 보안 및
 💪 Skills
 Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 
 
