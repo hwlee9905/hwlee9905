@@ -31,7 +31,7 @@ DB 설계, Spring MVC 구조 RESTful API 설계, 데이터 모델링, 보안 및
 
 몇날 몇일이 걸려 제가 만든 코드가 완벽하게 동작할 때 가장 행복함을 느낍니다.🚀
 
-💪 Skills
+💪 **Skills**
 <p>
    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
@@ -52,6 +52,6 @@ DB 설계, Spring MVC 구조 RESTful API 설계, 데이터 모델링, 보안 및
    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
+**Projects**
 
    
