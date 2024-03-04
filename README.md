@@ -54,7 +54,9 @@ DB 설계, Spring MVC 구조 RESTful API 설계, 데이터 모델링, 보안 및
    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-:mortar_board: <b>Career</b></br>
-</br>:computer: <b>Projects</b>
+:mortar_board: **Career**</br>
+- 2018.03 ~ 2024.03 한신대학교 컴퓨터공학과(4.28)
+- 2023.08 ~ 2024.02 자체 플랫폼 소유 Mobile SM 기업 모빌씨앤씨 인턴 재직
+</br>:computer: **Projects**
 
    
