@@ -59,6 +59,7 @@ DB 설계, Spring MVC 구조 RESTful API 설계, 데이터 모델링, 보안 및
 - 2023.08 ~ 2024.02 자체 플랫폼 소유 Mobile SM 기업 모빌씨앤씨 인턴 재직</br>
 
 :computer: **Projects**</br>
+[사내 자산 관리 앱](https://github.com/hwlee9905/ASSET_MANAGE_PROJECT_APP)
 
 :memo: **Certificate**
 - 컴퓨터활용능력 1급
