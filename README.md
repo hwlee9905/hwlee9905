@@ -65,6 +65,7 @@ DB 설계, Spring MVC 구조 RESTful API 설계, 데이터 모델링, 보안 및
 
 :memo: **Certificate**
 - 컴퓨터활용능력 1급
+- SW개발_L5
 - Toeic 775
 
 :pencil2: **Development Blog**
