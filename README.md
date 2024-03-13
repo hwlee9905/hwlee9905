@@ -61,7 +61,7 @@ DB 설계, Spring MVC 구조 RESTful API 설계, 데이터 모델링, 보안 및
 
 :pushpin: **Projects**</br>
 - [사내 자산 관리 앱](https://github.com/hwlee9905/ASSET_MANAGE_PROJECT_APP)
-- [레거시 항공편 예약 시스템](https://github.com/hwlee9905/Airline_Reservation_System.git)
+- [[Legacy] 항공편 예약 시스템](https://github.com/hwlee9905/Airline_Reservation_System.git)
 
 :memo: **Certificate**
 - 컴퓨터활용능력 1급
