@@ -59,7 +59,6 @@ DB 설계, Spring MVC 구조 RESTful API 설계, DB와 Entity 설계, 보안 및
 
 :pushpin: **Projects**</br>
 - [사내 자산 관리 앱](https://github.com/hwlee9905/ASSET_MANAGE_PROJECT_APP)[ing]
-- [반려 동물 커뮤니티](https://github.com/hwlee9905/Pet-Care-Hub.git)[ing]
 - [교통 캘린더 앱](https://github.com/hwlee9905/Traffic_Calendar_App.git)
 - [[Legacy] 항공편 예약 시스템](https://github.com/hwlee9905/Airline_Reservation_System.git)
 
