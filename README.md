@@ -54,8 +54,8 @@ DB 설계, Spring MVC 구조 RESTful API 설계, DB와 Entity 설계, 보안 및
 </p>
 
 :mortar_board: **Career**</br>
-- 2018.03 ~ 2024.03 한신대학교 컴퓨터공학과 (평점평균 4.28 졸업)
-- 2023.08 ~ 2024.02 자체 플랫폼 소유 Mobile SM 기업 모빌씨앤씨 인턴 재직</br>
+- 2018.03 ~ 2024.03 컴퓨터공학과 (평점평균 4.28 졸업)
+- 2023.08 ~ 2024.02 자체 플랫폼 소유 Mobile SM 기업 인턴 재직</br>
 
 :pushpin: **Projects**</br>
 <!-- - [사내 자산 관리 앱](https://github.com/hwlee9905/ASSET_MANAGE_PROJECT_APP)[ing] -->
