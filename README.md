@@ -67,6 +67,7 @@ DB 설계, Spring MVC 구조 RESTful API 설계, DB와 Entity 설계, 보안 및
 - SW개발_L5
 - Toeic 775
 - 정보처리기사
+- SQLD
 
 :pencil2: **Development Blog**
 - https://hwlee9905.tistory.com/
