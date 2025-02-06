@@ -53,11 +53,6 @@ DB 설계, Spring MVC 구조 RESTful API 설계, DB와 Entity 설계, 보안 및
    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-:mortar_board: **Career**</br>
-- 2018.03 ~ 2024.03 컴퓨터공학과 (평점평균 4.28 졸업)
-- 2023.08 ~ 2024.02 Mobile CNC</br>
-
-
 :pushpin: **Projects**</br>
 <!-- - [사내 자산 관리 앱](https://github.com/hwlee9905/ASSET_MANAGE_PROJECT_APP)[ing] -->
 - [SYNC Tool](https://github.com/hwlee9905/SYNC_MSA)
